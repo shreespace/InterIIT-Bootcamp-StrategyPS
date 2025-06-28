@@ -1,5 +1,8 @@
 # 🌱 Agriculture & Carbon Emissions
 
+## 📎 Project Deck  
+👉 [View Presentation](https://www.canva.com/design/DAGS6PO94Q4/Ympj7e-xZ23UM2766-NwnA/edit)
+
 ## 📚 Table of Contents
 
 - [🏆 Hackathon Win](https://github.com/shreespace/InterIIT-Bootcamp-StrategyPS?tab=readme-ov-file#-hackathon-win)
@@ -27,7 +30,7 @@ Agriculture contributes ~18% of India's total GHG emissions, primarily from:
 
 ## 🌍 Global Emissions Insights
 
-Agriculture globally accounts for 19-29% of total emissions:
+Agriculture globally accounts for 19–29% of total emissions:
 - **Livestock** 🐄 (44%): Methane.
 - **Fertilizers** 💩 (36%): Nitrous oxide.
 - **Deforestation** 🌳 (20%): CO₂.
@@ -38,5 +41,3 @@ Agriculture globally accounts for 19-29% of total emissions:
 
 - **On-Farm** 🌱: Precision farming, better seed varieties, and efficient water use.
 - **Supply Chain** 🚚: Energy-efficient processing, renewable energy, and optimized logistics.
-
----
